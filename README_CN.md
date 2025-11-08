@@ -1,7 +1,7 @@
 # AAE-DMOEA-Reproduction（MATLAB/非官方复现）
 这是论文 **《Adversarial AutoEncoder-based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm (AAE‑DMOEA)》** 的**个人 MATLAB 复现**。并非 Python。
 
-> ⚠️ 说明：非官方实现，仅用于科研与教学。如果发现错误可以与我联系，与原作者无关，如果原作者发现代码与实际不符请与我联系。
+> ⚠️ 说明：非官方实现，仅用于科研与教学。如果发现错误可以与我联系，如果原作者发现代码与实际不符请与我联系。
 
 ---
 
