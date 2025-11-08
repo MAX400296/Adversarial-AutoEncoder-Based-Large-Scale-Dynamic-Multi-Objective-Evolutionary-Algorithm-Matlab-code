@@ -2,7 +2,7 @@
 _Unofficial personal reproduction of_ **“Adversarial AutoEncoder-based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm (AAE‑DMOEA)”** (IEEE TEVC 2024).  
 This repo is **MATLAB** code (not Python).
 
-> ⚠️ Disclaimer: Unofficial reproduction for research/education only. Any mistakes or mismatches with the paper are mine.
+> ⚠️ ⚠️ Disclaimer: This is a personal, unofficial reproduction for research/education. Not affiliated with the original authors. Any inconsistencies or bugs are my own. If the original author finds that the code does not match the actual implementation, please contact me.
 
 ---
 
