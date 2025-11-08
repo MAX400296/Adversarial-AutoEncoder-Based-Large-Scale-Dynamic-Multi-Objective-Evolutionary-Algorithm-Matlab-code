@@ -1,4 +1,4 @@
-# AAE-DMOEA-Reproduction (MATLAB)
+# AAE-DMOEA: Adversarial AutoEncoder-based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm
 _Unofficial personal reproduction of_ **“Adversarial AutoEncoder-based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm (AAE‑DMOEA)”** (IEEE TEVC 2024).  
 This repo is **MATLAB** code (not Python).
 
