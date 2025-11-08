@@ -5,7 +5,7 @@ This project reimplements the **AAE-DMOEA** framework: an Adversarial AutoEncode
 > Paper: Adversarial AutoEncoder-Based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm (Li, Yen, He).  
 > DOI: 10.1109/TEVC.2024.3412049. Key ideas include auxiliary-information extraction via **cosine-angle trends** + **Markov chain predictor**, an **AAE** trained with a **transfer loss**, and a generator that yields high-quality initial populations for new environments【8†Adversarial AutoEncoder-Based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm†L246-L318】【8†Adversarial AutoEncoder-Based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm†L319-L390】.
 
-> ⚠️ **Disclaimer**: This is a personal, unofficial reproduction for research/education. Not affiliated with the original authors. Any inconsistencies or bugs are my own.
+> ⚠️ **Disclaimer**: This is a personal, unofficial reproduction for research/education. Not affiliated with the original authors. Any inconsistencies or bugs are my own. If the original author finds that the code does not match the actual implementation, please contact me.
 
 ---
 
