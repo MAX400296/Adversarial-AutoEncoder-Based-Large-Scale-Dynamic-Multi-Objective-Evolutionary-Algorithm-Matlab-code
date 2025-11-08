@@ -5,7 +5,7 @@
 
 ---
 
-[🇺🇸 English Version](README_EN.md)
+[English Version](README.md)
 
 
 ## 🔧 依赖环境
