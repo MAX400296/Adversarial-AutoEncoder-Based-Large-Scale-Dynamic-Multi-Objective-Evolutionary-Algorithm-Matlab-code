@@ -6,6 +6,9 @@ This repo is **MATLAB** code (not Python).
 
 ---
 
+[📘 中文版说明 / Read in Chinese](README_CN.md)
+
+
 ## 🔧 Requirements
 - **MATLAB R2021b+**
 - Toolboxes:
