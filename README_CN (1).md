@@ -3,7 +3,7 @@
 
 > 论文要点：通过**余弦角趋势** + **马尔可夫链**预测未来环境中帕累托解的方向性辅助信息；用**迁移损失**训练AAE，使解码样本落入“预测的局部区域”，并在新环境中生成高质量初始种群【8†Adversarial AutoEncoder-Based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm†L246-L318】【8†Adversarial AutoEncoder-Based Large-Scale Dynamic Multi-Objective Evolutionary Algorithm†L319-L390】。
 
-> ⚠️ **声明**：非官方实现，仅用于科研与教学。与原作者无关，错误与不足由本人负责。
+> ⚠️ **声明**：非官方实现，仅用于科研与教学。如果发现错误可以与我联系，与原作者无关，如果原作者发现代码与实际不符请与我联系。
 
 ---
 
